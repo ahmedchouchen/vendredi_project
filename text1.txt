@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 la branch master write here 1st line  and  the github add some words too
 
 
  the branch master add a second line 
+=======
+la branch master write here 1st line  , the github add some words
+add 2nd line from github
+>>>>>>> 48d451de42db1957789a27d7a637d57221a58746
